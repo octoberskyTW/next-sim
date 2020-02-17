@@ -5,7 +5,7 @@ $ mkdir -p ~/cadac_ws/src
 $ cd ~/cadac_ws
 $ catkin_make
 $ cd src
-$ git clone https://github.com/octoberskyTW/next-sim.git
+$ git clone https://github.com/octoberskyTW/ros_based-sim.git
 $ cd ..
 $ catkin_make
 $ source devel/setup.bash 
